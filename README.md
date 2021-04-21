@@ -11,3 +11,5 @@ The goal of this project is to identify any trends in consumer buying habits fro
 
 ## Data
 Our dataset is the Amazon Best Seller Products Data from Kaggle. It contains over 2,000,000 rows containing descriptions of the products sold on Amazon.
+
+Link: https://www.kaggle.com/waqarahmad101/amazon-best-seller-product-data
