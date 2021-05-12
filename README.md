@@ -6,7 +6,7 @@ This is a project for Data Blog at DataRes during Spring 2021. The article publi
 The goal of this project is to identify any trends in consumer buying habits from over 2 million rows of products data.
 
 ## Data
-We used a dataset from Kaggle that was collected using web scraping. It contains product information for over 2,000,000 products sold on Amazon that are classified as Best Seller.
+We used a dataset from Kaggle that was collected using web scraping. It contains product information for over 2,000,000 products sold on Amazon that had been labelled as Best Seller.
 
 Link to datatset: https://www.kaggle.com/waqarahmad101/amazon-best-seller-product-data
 
