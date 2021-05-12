@@ -15,9 +15,9 @@ For the purpose of this project, we decided to take a random sample of 10,000 pr
 
 ## Data Analysis
 We conducted our analysis to answer the following questions:
-### Product Titles
+#### Product Titles
 What are the most common words in the product titles from different categories?
-### Product Categories
+#### Product Categories
 How can the different product categories be clustered together and what is the differences in product price, rating and number of reviews for these clustered categories?
-### Amazon vs Walmart
+#### Amazon vs Walmart
 How do the most popular product categories from Amazon differ from those from Walmart?
