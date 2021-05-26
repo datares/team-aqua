@@ -2,6 +2,9 @@
 
 This is a project for Data Blog at DataRes during Spring 2021. The article published on this project can be found on the DataRes Medium site.
 
+Project Lead: Avishek Ghosh
+Team Members: Sudhanshu Agrawal, Angelina Kim, Zoey Meng, Cyrus Ho
+
 ## Project Description
 The goal of this project is to identify any trends in products that become Best Sellers on Amazon.
 
@@ -17,6 +20,8 @@ For the purpose of this project, we decided to take a random sample of 10,000 pr
 We conducted our analysis to answer the following questions:
 #### Product Titles
 What are the most common words in the product titles from different categories?
+#### Price / Rating
+What is the distribution of prices and ratings for all products?
 #### Product Categories
 How can the different product categories be clustered together and what is the differences in product price, rating and number of reviews for these clustered categories?
 #### Amazon vs Walmart
