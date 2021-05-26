@@ -17,7 +17,7 @@ Link to Amazon dataset: https://www.kaggle.com/waqarahmad101/amazon-best-seller-
 Link to Walmart dataset: https://www.kaggle.com/promptcloud/walmart-product-dataset-usa
 
 ## Data Processing
-For the purpose of this project, we decided to take a random sample of 10,000 products to optimize code run time. The data from the random sample was cleaned up before conducting any analysis. Irrevelant columns such as links to the image url and Amazon page were dropped. Any data points that contained a price range was replaced by the midpoint price of the range. The product prices, number of reviews and ratings were correctly formatted by removing any commas or dollar signs, and then converting the strings to the appropriate data type (int/float). For product titles, filler words and any duplicate words were removed.
+For the purpose of this project, we decided to take a random sample of 10,000 products from the Amazon dataset to optimize code run time. The data from the random sample was cleaned up before conducting any analysis. Irrevelant columns such as links to the image url and Amazon page were dropped. Any data points that contained a price range was replaced by the midpoint price of the range. The product prices, number of reviews and ratings were correctly formatted by removing any commas or dollar signs, and then converting the strings to the appropriate data type (int/float). For product titles, filler words and any duplicate words were removed. A similar process was followed for cleaning the Walmart dataset.
 
 ## Data Analysis
 We conducted our analysis to answer the following questions:
