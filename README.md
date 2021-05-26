@@ -3,6 +3,7 @@
 This is a project for Data Blog at DataRes during Spring 2021. The article published on this project can be found on the DataRes Medium site.
 
 Project Lead: Avishek Ghosh
+
 Team Members: Sudhanshu Agrawal, Angelina Kim, Zoey Meng, Cyrus Ho
 
 ## Project Description
