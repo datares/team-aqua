@@ -2,6 +2,8 @@
 
 This is a project for Data Blog at DataRes during Spring 2021. The article published on this project can be found on the DataRes Medium site.
 
+Link to Medium Article: https://ucladatares.medium.com/what-does-everyone-buy-on-amazon-3cc6955a182c
+
 Project Lead: Avishek Ghosh
 
 Team Members: Sudhanshu Agrawal, Angelina Kim, Zoey Meng, Cyrus Ho
